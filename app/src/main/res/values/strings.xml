@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">SharedPreferenceProject</string>
+    <string name="tittle_main">BIENVENIDO - CONTROL</string>
+    <string name="names_pac">Nombres</string>
+    <string name="lastname_pac">Apellidos</string>
+    <string name="username_pac">Usuario</string>
+    <string name="password_pac">Contraseña</string>
+    <string name="email_pac">Email</string>
+    <string name="phone_pac">Telefono</string>
+    <string name="btn_registrar">Registrar</string>
+
 </resources>
