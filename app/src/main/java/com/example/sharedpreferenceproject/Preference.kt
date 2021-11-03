@@ -34,6 +34,6 @@ class Preference(val context: Context) {
         return storage.getString(SHARED_LAST_NAME,"")!!
     }
     fun wipe(){
-        storage.edit().clear()
+        storage.edit().clear().apply()
     }
 }
